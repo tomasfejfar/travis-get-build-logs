@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "kevinrob/guzzle-cache-middleware": "^3.3",
+        "doctrine/cache": "^1.10"
+    }
+}
